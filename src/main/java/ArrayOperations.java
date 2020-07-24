@@ -90,5 +90,6 @@ public class ArrayOperations {
 
     private void someHelper() {
         System.out.println("abc");
+        System.out.println("def");
     }
 }
