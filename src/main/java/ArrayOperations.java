@@ -89,6 +89,6 @@ public class ArrayOperations {
      * ***********************************************************/
 
     private void someHelper() {
-        // ...
+        System.out.println("abc");
     }
 }
